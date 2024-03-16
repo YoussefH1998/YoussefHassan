@@ -65,6 +65,10 @@ Knowledge of Java, Selenium, Maven & Test NG
 
 - These tests consist of testsuites for loginPage and productPage specifically which can test these pages seperately or can be used as regression cases if certain changes occured in these pages
 
+## Test Execution Video Link
+
+[Test Execution Video](https://drive.google.com/file/d/1Au571X0qKa9A1WN5LJE2oyDl78J-d8q2/view?usp=drive_link) - A video of test execution for all tests in the project
+
 ## Test Scenarios:-
 
 | Test Scenario Description | Test Steps                                                                                                                                                                                                                                                                                                 | Expected Result                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Actual Result |
